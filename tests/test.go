@@ -1,4 +1,8 @@
 package main
-import (fmt)
+
+
 func main() {
-    fmt.Println("Hello World");}
+    res := Add(1, 2)
+    // Print the result
+    fmt.Println("Hello World"
+}
